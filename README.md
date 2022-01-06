@@ -25,10 +25,10 @@ Users should be able to:
 ### Screenshots
 
 Desktop view (1440px)
-![](./images/screenshot1.jpg)
+![](./images/screenshot1.png)
 
 Mobile view (375px)
-![](./images/screenshot2.jpg)
+![](./images/screenshot2.png)
 
 
 ## My process
@@ -47,6 +47,6 @@ I used HTML and CSS for this project. I developed this project with the mobile-f
 ## Author
 
 - Developer Name - Sithu Myo Set
-- Mail - [sithuzx123](sithuzx123@gmail.com)
+- Mail - [Sithu Myo Set](sithuzx123@gmail.com)
 - Facebook - [Sithu Myo Set](https://www.facebook.com/profile.php?id=100007418655004)
 
