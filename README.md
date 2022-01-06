@@ -12,8 +12,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Details about the project](#Details-about-the-project)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -24,10 +22,10 @@ Users should be able to:
 
 ### Screenshots
 
-####Desktop view (1440px)
+- Desktop view (1440px)
 ![](./images/screenshot1.png)
 
-####Mobile view (375px)
+- Mobile view (375px)
 ![](./images/screenshot2.png)
 
 
