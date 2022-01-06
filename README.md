@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Screenshots
 
-Desktop view (1440px)
+####Desktop view (1440px)
 ![](./images/screenshot1.png)
 
-Mobile view (375px)
+####Mobile view (375px)
 ![](./images/screenshot2.png)
 
 
